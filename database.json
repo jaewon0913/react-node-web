@@ -1,0 +1,7 @@
+{
+    "host": "reactdb.cbbmp0voxtbz.ap-northeast-2.rds.amazonaws.com",
+    "user": "user",
+    "password": "user1234",
+    "port": "3306",
+    "database": "reactdb"
+}
