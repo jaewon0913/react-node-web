@@ -23,7 +23,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # database
-/databse.json
+/database.json
 
 # upload
 /upload
